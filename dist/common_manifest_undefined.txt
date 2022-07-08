@@ -1,0 +1,7 @@
+__prelude__
+/Users/lyc/Desktop/D/MetroDemo/node_modules/metro-runtime/src/polyfills/require.js
+require-/Users/lyc/Desktop/D/MetroDemo/utils.js
+/Users/lyc/Desktop/D/MetroDemo/utils.js
+__prelude__
+/Users/lyc/Desktop/D/MetroDemo/node_modules/metro-runtime/src/polyfills/require.js
+/Users/lyc/Desktop/D/MetroDemo/utils.js

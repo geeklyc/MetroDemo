@@ -1,0 +1,15 @@
+{
+  "name": "MetroDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "metro": "^0.70.0",
+    "metro-core": "^0.70.0"
+  },
+  "scripts": {
+    "build": "metro build index.js --out temp.bundle -z flase",
+    "build-index": "metro build index.js --out ./dist/index.bundle.js -z flase --config index.config.js",
+    "build-base": "metro build utils.js --out ./dist/base.bundle.js -z flase --config base.config.js"
+  }
+}
